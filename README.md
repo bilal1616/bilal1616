@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal1616&theme=discord" alt="bilal1616" /></a> </p>
 
-- 🌱 I’m currently learning **Dart / Flutter and Design Pattern**
-- 💬 Ask me about **Bloc, Provider**
+- 🌱 I’m currently learning **Dart / Flutter**
+- 💬 Ask me about **Bloc and Provider**
 - 📫 How to reach me **bilalgonul.1616@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/bilal-g%C3%B6n%C3%BCl-9b0152231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
