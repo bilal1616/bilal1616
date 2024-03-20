@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <img src="https://user-images.githubusercontent.com/16265425/207836953-763fc4de-da14-4ee5-ba25-7905ab7464e8.gif" width="100%" />
 <h1 align="center">Hi 👋, I'm Bilal Gönül</h1>
 <h3 align="center">I am a mobil developer 👨‍💻</h3>
@@ -51,5 +50,3 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bilal1616&theme=github-light"/>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
