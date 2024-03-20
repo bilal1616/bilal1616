@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal1616&theme=" alt="bilal1616" /></a> </p>
 
 - 🌱 I’m currently learning **Dart / Flutter**
-- 💬 Ask me about **Design Pattern**
+- 💬 Ask me about **Design Pattern and Widget**
 - 📫 How to reach me **bilalgonul.1616@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
