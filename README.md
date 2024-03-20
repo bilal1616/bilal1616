@@ -35,7 +35,7 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal1616&hide_progress=true&theme=buefy-dark" alt=bilal1616 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bilal1616&show_icons=true&locale=en&theme=default" alt="bilal1616" /></p>
+<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bilal1616&show_icons=true&locale=en&theme=default" alt="bilal1616" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal1616&theme=merko" alt="bilal1616" /></p>
 
