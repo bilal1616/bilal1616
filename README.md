@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal Gönül</h1>
-<h3 align="center">A determined mobile developer from Turkey</h3>
+<h3 align="center">I am a determined and constantly improving mobile developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal1616&label=Profile%20views&color=0e75b6&style=flat" alt="bilal1616" /> </p>
 
