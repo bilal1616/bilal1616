@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="75%" />
 <img src="https://user-images.githubusercontent.com/16265425/207836953-763fc4de-da14-4ee5-ba25-7905ab7464e8.gif" width="100%" />
 <h1 align="center">Hi 👋, I'm Bilal Gönül</h1>
 <h3 align="center">I am a mobil developer 👨‍💻</h3>
