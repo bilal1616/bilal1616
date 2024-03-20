@@ -3,7 +3,7 @@
 <h3 align="center">I am a mobil developer 👨‍💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal1616&label=Profile%20views&color=0e75b6&style=flat" alt="bilal1616" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=bilal1616&theme="><img src="https://github-profile-trophy.vercel.app/?username=bilal1616&theme=" alt="bilal1616" /></a> </p>
+<p align="left"> <a href="https://github.com/bilal1616?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=bilal1616&theme=" alt="bilal1616" /></a> </p>
 
 - 🌱 I’m currently learning **Dart / Flutter**
 - 💬 Ask me about **Design Pattern and Widget**
