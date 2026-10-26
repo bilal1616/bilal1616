@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/bilal1616?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=bilal1616&theme=" alt="bilal1616" /></a> </p>
 
-- 🌱 I’m currently learning **Dart / Flutter**
+- 🌱 I develop full-stack projects using Dart/Flutter (Mobile and Web Developer)
 - 💬 Ask me about **Design Pattern and Widget**
 - 📫 How to reach me **bilalgonul.1616@gmail.com**
 
